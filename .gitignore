@@ -6,8 +6,8 @@ __pycache__/
 *.py[cod]
 
 # Data files (Too large for git)
-data/
-*.csv
+# data/
+# *.csv
 *.zip
 
 # Jupyter Notebook checkpoints
